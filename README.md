@@ -84,6 +84,6 @@ Suggestions and improvements are welcome. Fork the repo, create a branch, and op
 
 **Your Name** – 3rd Year CSE Student
 - GitHub: [@hyphe_jayy](https://github.com/jayrajsingh837-hub)
-- LinkedIn: [](https://www.linkedin.com/in/jairaj-singh-863aa0406/)
-- Email: [](jayrajsingh837@gamil.com)
+- LinkedIn: (https://www.linkedin.com/in/jairaj-singh-863aa0406/)
+- Email: (jayrajsingh837@gamil.com)
 
